@@ -26,7 +26,7 @@ This app provides daily affirmations, personalized therapy resources, and a conv
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ai-mental-healthcare-assistant.git
+    git clone https://github.com/Arman-Husain/ai-mental-healthcare-assistant.git
     cd ai-mental-healthcare-assistant
     ```
 
